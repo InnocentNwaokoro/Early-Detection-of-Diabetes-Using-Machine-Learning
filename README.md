@@ -57,7 +57,7 @@ This represents the age distribution of patients in the dataset. The histogram s
 This displays the frequency of reported symptoms among patients in the dataset. The most commonly reported symptom is weakness, followed closely by polyuria (excessive urination) and itching. Other frequently reported symptoms include delayed healing, polyphagia (excessive hunger), and polydipsia (excessive thirst). Less commonly reported symptoms include alopecia (hair loss), irritability, genital thrush, and obesity. The variation in symptom frequency highlights the prominence of certain symptoms as potential predictors for diabetes
 
 - How do symptoms differ between Positive and Negative diabetes cases?
-- 
+
 ![symptom_comparison](https://github.com/user-attachments/assets/6c8638ff-30d5-48c2-9ce3-8d03c58095fa)
 
 This chart compares the proportion of reported symptoms between Positive and Negative diabetes cases. Symptoms like polyuria, polydipsia, weakness, and sudden_weight_loss are significantly more prevalent among Positive cases, making them strong indicators of diabetes. On the other hand, symptoms like alopecia, irritability, and obesity show a relatively higher prevalence among Negative cases, although they are less critical for distinguishing between the two classes. This comparison highlights the key symptoms that can be used to predict diabetes effectively
